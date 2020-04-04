@@ -1,5 +1,7 @@
 ## Emacs config
 
+git clone this directort in `~./` and rename it to `.emacs.d`
+
 Copy the following into a .emacs file in `~/` directory
 
 ```
